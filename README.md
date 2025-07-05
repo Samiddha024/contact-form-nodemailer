@@ -70,7 +70,7 @@ EMAIL_TO=           # Destination email (e.g., your admin inbox)
 ```json
 {
   "name": "Sam",
-  "email": "samiddha.raich024@gmail.com",
+  "email": "your_gmail",
   "subject": "Demo",
   "message": "This is a test message"
 }
